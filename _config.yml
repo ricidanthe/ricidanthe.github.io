@@ -21,7 +21,7 @@ resume_contact_email:           "tarunlsankar@gmail.com"
 resume_contact_address:         "Dallas-Forworth Metroplex"
 
 resume_header_contact_info:     "Dallas-Forworth Metroplex• tarunlsankar@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Full Stack Developer | Computer Engineering Student at Univerisity of Texas at Dallas | Python | React | C++ | Java</p>"
 
