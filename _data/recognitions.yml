@@ -1,10 +1,10 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- #award: # University of Texas at Dallas
+  organization: University of Texas at Dallas
+  #year: 2010, 2014
+  summary: CS2305 - Discrebe math for Computing I, ENGR2300 - Linear ALgebra for Engineers, CS3345 - Data Structures & Algorithms, ENGR3341 - Probability Theory & Statistics, EE3320 - Digital CIrcuits
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- #award: Coursera
+  organization: Coursera
+  #year: 2004
+  summary: IBM Full Stack Software Developer.
