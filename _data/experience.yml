@@ -1,19 +1,12 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: University of Texas at Dallas
+  position: Undergraduate Researcher
+  duration: Aug, 2024 &mdash; Present
+  summary: Conducting research on how to create modular satellite receiver boxes, that is lightweight,portable, and solar charged, to be able to spread research of the ionosphere into lesser exploredregions such as South America.	<ul class="resume-item-list"><li>Using Python and data science modules to aggregate and compress data to reduce the size of the data sent back and forth from lab to the receiver</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Mathnasium, Plano TX
+  position: Lead Tutor
+  duration:  Nov, 2021 &mdash; Present
+  summary: Creating lesson plans, managing/helping other tutors, teaching Algebra 2/Precalculus/Calculus.
